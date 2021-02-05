@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "WSL2 Set up"
+date:   2021-02-04 17:04:02 -0800
+categories: note
+---
+
+Cuda:
+https://docs.nvidia.com/cuda/wsl-user-guide/index.html
+
+Display:
+https://stackoverflow.com/questions/43397162/show-matplotlib-plots-and-other-gui-in-ubuntu-wsl1-wsl2
